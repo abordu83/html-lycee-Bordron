@@ -1,90 +1,84 @@
-body{
-	background-color : #CCEEFF;
-	
-	
-}
-h1{
-	margin-top: 100px;
-	margin-left : 550px;
-	font-family: "comics sans ms";
-	font-size : 60px;
-	
+body {
+    background-color: #CCEEFF;
 }
 
-	
-	
-	
-#monde{
-	margin-left : 470px;
+h1 {
+    margin-top: 30px;
+    margin-left: 550px;
+    font-family: "comics sans ms";
+    font-size: 60px;
 }
 
-#pologne{
-	margin-left : 350px;
-	margin-top : -10px;
-	
+#monde {
+    margin-left: 470px;
 }
 
-#titre_pologne{
-	font-family : "comics sans ms";
-	font-size : 30px;
-	margin-left : 350px;
-	color : #FF1919;
-	text-decoration:none; 
+#pologne {
+    margin-left: 400px;
+    margin-top: -10px;
 }
 
-
-#autriche{
-	margin-left : 100px;
-	margin-top : -10px;
-	
+#titre_pologne {
+    font-family: "comics sans ms";
+    font-size: 30px;
+    margin-left: 400px;
+    color: #FF1919;
+    text-decoration: none;
 }
 
-#titre_autriche{
-	font-family : "comics sans ms";
-	font-size : 30px;
-	margin-left : 100px;
-	color : #FF1919;
-	text-decoration:none; 
+#autriche {
+    margin-left: 100px;
+    margin-top: -10px;
 }
 
-#perou{
-	margin-left : 100px;
-	margin-top : -10px;
-	
+#titre_autriche {
+    font-family: "comics sans ms";
+    font-size: 30px;
+    margin-left: 100px;
+    color: #FF1919;
+    text-decoration: none;
 }
 
-#titre_perou{
-	font-family : "comics sans ms";
-	font-size : 30px;
-	margin-left : 100px;
-	color : #FF1919;
-	text-decoration:none; 
+#perou {
+    margin-left: 100px;
+    margin-top: -10px;
 }
 
-#turquie{
-	margin-left : 100px;
-	margin-top : -10px;
-	
+#titre_perou {
+    font-family: "comics sans ms";
+    font-size: 30px;
+    margin-left: 100px;
+    color: #FF1919;
+    text-decoration: none;
 }
 
-#titre_turquie{
-	font-family : "comics sans ms";
-	font-size : 30px;
-	margin-left : 100px;
-	color : #FF1919;
-	text-decoration:none; 
+#turquie {
+    margin-left: 100px;
+    margin-top: -10px;
 }
 
-#israel{
-	margin-left : 100px;
-	margin-top : -10px;
-	
+#titre_turquie {
+    font-family: "comics sans ms";
+    font-size: 30px;
+    margin-left: 100px;
+    color: #FF1919;
+    text-decoration: none;
 }
 
-#titre_israel{
-	font-family : "comics sans ms";
-	font-size : 30px;
-	margin-left : 100px;
-	color : #FF1919;
-	text-decoration:none; 
+#israel {
+    margin-left: 100px;
+    margin-top: -10px;
+}
+
+#titre_israel {
+    font-family: "comics sans ms";
+    font-size: 30px;
+    margin-left: 100px;
+    color: #FF1919;
+    text-decoration: none;
+}
+
+#prenom {
+    font-family: "comics sans ms";
+    font-size: 20px;
 }
